@@ -10,5 +10,6 @@ def fizz_buzz(number)
   end
 end
 
-puts fizz_buzz(1)
+# puts fizz_buzz(1)
+
 
